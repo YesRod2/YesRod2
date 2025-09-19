@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at the IUT du Limousin in Limoges<br>🌱 I’m currently learning Python - JAVA - C - HTML/CSS - SQL - bash<br>💬 Ask me about what you want<br>📫 How to reach me: lucas.depoorter2006@gmail.com<br>😄 Pronouns: he/him
+🔭 I’m currently studying at the IUT du Limousin in Limoges<br>🌱 I’m currently learning Python - JAVA - C/C++ - HTML/CSS - SQL - bash - Rust - JavaScript - <br>💬 Ask me about what you want<br>📫 How to reach me: lucas.depoorter2006@gmail.com<br>😄 Pronouns: he/him
 
 
 ## 🌐 Socials:
